@@ -1,2 +1,2 @@
 # Mi Proyecto Git 
-Este es mi primer oproyecto usando Git.
+Este es mi primer proyecto usando Git.
